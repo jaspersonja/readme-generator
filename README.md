@@ -9,9 +9,7 @@ The user may have to install inquirer via the terminal command line: "npm i inqu
 ## Usage
 Upon opening the terminal and navigating to the correct file, the user simply has to input "node index.js" into the command line and the application will begin to run
 
-Link to example video: 
-
-## Credits
+[Example Video](https://github.com/jaspersonja/readme-generator/blob/main/vid/generatorVid.mp4)
 
 
 ## License
