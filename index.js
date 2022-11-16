@@ -23,7 +23,9 @@ ${license}
 
 ## Questions
 Please contact me if you have any questions or suggestions for improvement!
+
 [GitHub](${github})
+
 ${email}`;
 //Prompts requiring user input to fill template above
 inquirer
